@@ -1,0 +1,14 @@
+# VS Code settings
+.vscode/
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+crash.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Other temporary files
+*.log
